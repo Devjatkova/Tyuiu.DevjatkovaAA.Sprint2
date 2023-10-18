@@ -16,7 +16,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task7.V15.Lib
             {
                 res = true;
             }
-            else 
+            else
             {
                 res = false;
             }
