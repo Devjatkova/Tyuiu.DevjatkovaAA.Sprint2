@@ -11,7 +11,7 @@ namespace Tyuiu.DevyatkovaAA.Sprint2.Task0.V25.Lib
     {
         public bool[] GetCompareOperations(int x, int y)
         {
-            bool[] res = new bool[6];
+            bool[] res = new bool[6]; 
             res[0] = x - 46 == y;
             res[1] = x != y;
             res[2] = x - 47 < y;

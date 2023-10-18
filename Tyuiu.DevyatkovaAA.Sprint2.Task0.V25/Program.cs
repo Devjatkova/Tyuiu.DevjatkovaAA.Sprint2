@@ -11,7 +11,7 @@ namespace Tyuiu.DevyatkovaAA.Sprint2.Task0.V25
     {
         static void Main(string[] args)
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
             int x = 205;
             int y = 159;
             bool[] res = new bool[6];
