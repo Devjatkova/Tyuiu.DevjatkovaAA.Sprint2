@@ -18,7 +18,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task5.V15.Lib
                     res = "Понедельник";
                     break;
                 case 2:
-                    res = "Вторник";
+                    res = "Вторник"; 
                     break;
                 case 3:
                     res = "Среда";

@@ -35,7 +35,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task5.V15
 
             string res;
 
-            if ((k < 1) || (k > 365))
+            if ((k < 1) || (k > 365)) 
             {
                 res = "Введено неверное значение";
             }

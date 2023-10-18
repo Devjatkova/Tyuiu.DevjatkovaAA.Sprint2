@@ -21,7 +21,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task5.V15.Test
 
             Assert.ThrowsException<ArgumentException>(() =>
             {
-                ds.FindDayName(-1);
+                ds.FindDayName(-1); 
             });
             Assert.ThrowsException<ArgumentException>(() =>
             {
