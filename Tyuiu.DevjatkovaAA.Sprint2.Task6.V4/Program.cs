@@ -48,7 +48,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task6.V4
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(res);
+            Console.WriteLine(res); 
 
             Console.ReadKey();
         }

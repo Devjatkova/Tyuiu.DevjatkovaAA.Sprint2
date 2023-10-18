@@ -14,7 +14,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task6.V4.Test
             Assert.AreEqual("Пики", ds.FindCardSuit(1));
             Assert.AreEqual("Трефы", ds.FindCardSuit(2));
             Assert.AreEqual("Бубны", ds.FindCardSuit(3));
-            Assert.AreEqual("Черви", ds.FindCardSuit(4));
+            Assert.AreEqual("Черви", ds.FindCardSuit(4)); 
 
             Assert.ThrowsException<ArgumentException>(() =>
             {

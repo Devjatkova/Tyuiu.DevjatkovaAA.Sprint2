@@ -16,7 +16,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task6.V4.Lib
                 case 1: return "Пики";
                 case 2: return "Трефы";
                 case 3: return "Бубны";
-                case 4: return "Черви";
+                case 4: return "Черви"; 
                 default: throw new ArgumentException($"Номер масти делжен быть в диапазоне от 1 до 4. Значение {value}"); ;
             }
         }
