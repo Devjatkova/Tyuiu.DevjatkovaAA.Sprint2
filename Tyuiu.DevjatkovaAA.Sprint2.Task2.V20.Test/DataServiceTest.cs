@@ -11,7 +11,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task2.V20.Test
         public void ValidCheckDotInShadedArea()
         {
             DataService ds = new DataService();
-            int x = 6;
+            int x = 6; 
             int y = 10; 
 
             bool res = ds.CheckDotInShadedArea(x, y);
