@@ -24,7 +24,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task4.V11.Test
             double x = 1;
             double y = -160;
             double res = ds.Calculate(x, y);
-            double wait = -159.987;
+            double wait = -159.987; 
             Assert.AreEqual(wait, res);
         }
     }

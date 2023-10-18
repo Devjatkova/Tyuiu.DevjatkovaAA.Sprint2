@@ -13,7 +13,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task4.V11
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #2 | Выполнила: Девяткова А. А. | АСОиУБ-23-3";
+            Console.Title = "Спринт #2 | Выполнила: Девяткова А. А. | АСОиУБ-23-3"; 
             //Длина строки 75 символов
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
