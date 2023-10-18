@@ -15,7 +15,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task1.V21.Test
             int b = 987;
             int c = 696;
             int d = 155;
-            bool[] res = new bool[6];
+            bool[] res = new bool[6]; 
             res = ds.GetLogicOperations(a, b, c, d);
             bool[] wait = new bool[6] { false, false, false, false, true, false };
             CollectionAssert.AreEqual(wait, res);
