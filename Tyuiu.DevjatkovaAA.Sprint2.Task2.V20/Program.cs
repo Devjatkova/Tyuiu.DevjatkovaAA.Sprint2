@@ -47,7 +47,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task2.V20
             }
             else
             {
-                Console.WriteLine("Точка не находится в заштрихованной области");
+                Console.WriteLine("Точка не находится в заштрихованной области"); 
             }
 
             Console.ReadKey();

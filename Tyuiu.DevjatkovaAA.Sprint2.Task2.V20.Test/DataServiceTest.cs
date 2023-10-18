@@ -12,7 +12,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task2.V20.Test
         {
             DataService ds = new DataService();
             int x = 6;
-            int y = 10;
+            int y = 10; 
 
             bool res = ds.CheckDotInShadedArea(x, y);
             bool wait = true;

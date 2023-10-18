@@ -19,7 +19,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task2.V20.Lib
             }
             else
             {
-                res = false;
+                res = false; 
             }
 
             return res;
