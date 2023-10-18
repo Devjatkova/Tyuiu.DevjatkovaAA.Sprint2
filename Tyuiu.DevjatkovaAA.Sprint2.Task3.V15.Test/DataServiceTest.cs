@@ -38,7 +38,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task3.V15.Test
         }
 
         [TestMethod]
-        public void ValidCondition4()
+        public void ValidCondition4() 
         {
             DataService ds = new DataService();
             double x = -20;

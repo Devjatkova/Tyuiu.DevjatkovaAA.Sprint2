@@ -9,7 +9,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint2.Task3.V15.Lib
 {
     public class DataService : ISprint2Task3V15
     {
-        public double Calculate(double x)
+        public double Calculate(double x) 
         {
             double y = 0;
             if (x>0)
